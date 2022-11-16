@@ -17,3 +17,9 @@ import {createRoot} from 'react-dom/client'
 import App from './App'
 
 createRoot(document.getElementById("root")).render( <App /> )
+
+
+### test.rest
+GET https://nodejs-fake-api.herokuapp.com/products
+
+npm i react-router-dom

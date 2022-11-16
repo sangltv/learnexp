@@ -1,0 +1,1 @@
+GET https://nodejs-fake-api.herokuapp.com/products
